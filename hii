@@ -10,7 +10,7 @@
 </head>  
 <body>
 <?php
-$name = "Hitesh";
+$name = "Hitesh Malav";
 ?>
 <h1>Hello <?php echo $name ?> </h1>
 <p>How are you doing today?, <?php echo $name ?></p>
